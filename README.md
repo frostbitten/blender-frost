@@ -8,7 +8,8 @@ A large portion of the code was generated with the help of AI tools.
 
 ### auto_set_output_path.py
 
-Automatically set the output path based on a template. Helpful when quickly iterating on a project to ensure new renders don't overwrite previous ones. The automatic update triggers after each save and whenever the template is updated.
+Adds a sub panel to the Output panel within the Output Properties tab. Automatically set the output path based on a template. Helpful when quickly iterating on a project to ensure new renders don't overwrite previous ones. The automatic update triggers after each save and whenever the template is updated.
+
 
 Variables:
   *  `__FILE_NAME__` The blend file name without extension
