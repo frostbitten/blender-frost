@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Auto Set Render Output Path",
-    "author": "Matthew Seremet @frostbitten",
+    "author": "Matthew Seremet @frostbitten + Open AI Chat GPT-4",
     "version": (1, 0, 0),
     "blender": (2, 93, 16),
     "location": "Render Properties > Output",
